@@ -31,4 +31,3 @@ cd sunnyvale-coding
 vagrant up
 
 vagrant ssh
-
