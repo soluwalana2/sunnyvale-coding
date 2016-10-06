@@ -1,1 +1,1 @@
-jfhgoe
+print("hello world")
